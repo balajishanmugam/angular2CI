@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "test-from-home",
+    "dist": "test-from-home",
+    "default": "test-from-home",
+    "test1": "test2-59f1d"
+  }
+}
